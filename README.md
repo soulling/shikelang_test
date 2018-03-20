@@ -8,5 +8,5 @@ shanqichao create the first project
 - playing LOL.
 
 ## TODO lists:
-[X] eating shit.
-[x] playing LOL.
+- [x] eating shit.
+- [x] playing LOL.
